@@ -15,7 +15,7 @@ Dette repo bygger videre på den grundlæggende idé fra GK1, men er fra et tekn
 
 ## Demo
 
-En video-gennemgang af appen kan findes i root dir.
+En video-gennemgang af appen kan findes i root dir. Alternativt kan den [findes her.](https://drive.proton.me/urls/64TT6VR4KR#hSP5gZpCcB8G)
 
 ## Områder som opfylder GK2 krav 
 
